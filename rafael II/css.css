@@ -1,0 +1,38 @@
+#ese{
+    color:bisque;
+    font-family: 'Comic Neue', Courier, monospace;
+}
+
+li{
+    color:burlywood;
+    font-family: 'Comic Neue', Courier, monospace;
+    font-weight: bold;
+}
+
+#emcima{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder
+    ;
+    font-size:30px;
+}
+
+hr{
+    color: bisque;
+}
+
+img{
+    height:100px;
+}
+
+#eu{
+    height:170px;
+}
+
+body{
+    background-color: darkcyan;
+}
+
+hr{
+    color: darkcyan;
+}
